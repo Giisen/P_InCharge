@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InCharge.Client.props" />
+</Project>
